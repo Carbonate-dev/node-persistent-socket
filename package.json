@@ -1,6 +1,6 @@
 {
   "name": "persistent-socket",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a persistent socket connection that lazily reconnects when it receives writes",
   "main": "dist/index.js",
   "exports": {
